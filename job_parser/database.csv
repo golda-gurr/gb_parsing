@@ -1,0 +1,150 @@
+_id,company_address,company_name,name,salary,site_scraping,vacancy_link
+5f5b8fbb5007de8d97a4ee18,Выставочная,Синема Стар,Python developer,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/python-developer-34284293.html
+5f5b8fbd5007de8d97a4ee19,Москва,Хейфец Олег Олегович,Junior Fullstack Developer,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/junior-fullstack-developer-34426626.html
+5f5b8fc15007de8d97a4ee1b,Щелковская,ТЭК Электроникс,Системный администратор,80000  —  90000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-34447829.html
+5f5b8fc55007de8d97a4ee1d,Уфа,Фином-Технологии,Full-stack tester,до  120000руб.,superjob.ru,https://russia.superjob.ru/vakansii/full-stack-tester-34382598.html
+5f5b8fc75007de8d97a4ee1f,Проспект Мира,МГТС,Ведущий инженер СРК,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-inzhener-srk-34433915.html
+5f5b8fcc5007de8d97a4ee21,Москва,Easy Partners Group,Product-менеджер,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/product-menedzher-34455158.html
+5f5b8fcf5007de8d97a4ee23,"Ростов-на-Дону, Доломановский переулок, 70Г",DATUM Group,Backend-разработчик,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/backend-razrabotchik-34523629.html
+5f5b8fd15007de8d97a4ee25,Москва,ОптиКом,DevOps инженер,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/devops-inzhener-34312470.html
+5f5b8fd55007de8d97a4ee27,"Московская область, Химки, проспект Мельникова, 16","Учебно-производственный центр ""Унитех""",Преподаватель программирования,1000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/prepodavatel-programmirovaniya-34382771.html
+5f5b8fd95007de8d97a4ee29,"Краснодар, Кузнечная улица, 6",ИЦ Региональные системы,Системный инженер (аналитик-программист),По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-inzhener-34448230.html
+5f5b8fdd5007de8d97a4ee2b,"Москва, Кольцевая линия, метро Павелецкая",Смартплеер,Разработчик NodeJS,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/razrabotchik-nodejs-34338584.html
+5f5b8fe05007de8d97a4ee2d,Хабаровск,Сбербанк России,Руководитель направления в управление серверов приложений,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/rukovoditel-napravleniya-v-upravlenie-serverov-prilozhenij-34345216.html
+5f5b8fe45007de8d97a4ee30,Москва,"РА ""Подбор персонала @ HR аудит""",Senior Python Developer,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/senior-python-developer-34421314.html
+5f5b8fe85007de8d97a4ee32,Москва,КИБЕРБОРЕЯ,Программист Python,120000  —  150000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/programmist-python-34345798.html
+5f5b8feb5007de8d97a4ee34,"Москва, Щукинская улица, 5с6",ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ,Full-stack-веб-программист python/javascript,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/full-stack-veb-programmist-python-33998693.html
+5f5b8fee5007de8d97a4ee35,"Республика Башкортостан, Уфа, проспект Октября, 149","БСКБ ""Нефтехимавтоматика""",Разработчик Python,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/razrabotchik-python-34355862.html
+5f5b8ff25007de8d97a4ee37,Озерки,Корда Групп,Системный администратор,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-34456360.html
+5f5b8ff75007de8d97a4ee39,"Киров, Первомайский район, улица Урицкого, 24",Айтивебнет,Системный администратор,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-34438678.html
+5f5b8ffa5007de8d97a4ee3b,"Ленинградская область, Тосненский район, Фёдоровское городское поселение, городской посёлок Фёдоровское, Шоссейная улица, 2Г",УК Грандо,Программист 1C,100000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/programmist-1c-34247578.html
+5f5b8fff5007de8d97a4ee3e,"Москва, Зеленоград, Каштановая аллея 4",Медицинский колледж № 7,Программист,от  30000руб.,superjob.ru,https://russia.superjob.ru/vakansii/programmist-34373450.html
+5f5b90015007de8d97a4ee3f,"Санкт-Петербург, Курортный район, посёлок Песочный, Ленинградская улица, 68","ФБГУ ""НМИЦ онкологии им. Н. Н. Петрова"" Минздрава России",Инженер-программист,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/inzhener-programmist-33865766.html
+5f5b90055007de8d97a4ee42,Первомайская,БИФИТ,Программист C++,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/programmist-c-34403007.html
+5f5b900a5007de8d97a4ee44,"Челябинская область, Озерск",Астра Студио,Full-stack Web Developer,от  50000руб.,superjob.ru,https://russia.superjob.ru/vakansii/full-stack-web-developer-34373700.html
+5f5b900d5007de8d97a4ee46,"Москва, Ореховый бульвар, д. 49к1","ГБУЗ ""ДЦЛИ ДЗМ""","Системный администратор, IT-специалист, программист",90000  —  100000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-33845400.html
+5f5b90105007de8d97a4ee48,"Москва, Островная улица, 2","Дом Фарфора и ""Williams Et Oliver"" — домашняя утварь",Веб-разработчик / Веб-программист,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/veb-razrabotchik-34446777.html
+5f5b90145007de8d97a4ee4a,"Тверь, бульвар Шмидта, 18","НИЦ ""Резонанс""",Программист С++,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/programmist-s-34432437.html
+5f5b90185007de8d97a4ee4c,Чернышевская,Смарт-телеком,Ведущий специалист по разработке VoIP решений,80000  —  86000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-specialist-po-razrabotke-voip-reshenij-34374105.html
+5f5b901c5007de8d97a4ee4e,Бухарестская,Группа Управляющих компаний,Инженер сети передачи данных,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/inzhener-seti-peredachi-dannyh-33838909.html
+5f5b901d5007de8d97a4ee50,Выборгская,ГАРАНТ,Системный администратор,до  35000руб.,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-34374429.html
+5f5b90225007de8d97a4ee52,Москва,Директ Кредит,Системный администратор,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-34169200.html
+_id,company_address,company_name,name,salary,site_scraping,vacancy_link
+5f5b8fb95007de8d97a4ee17,Балашиха,ООО  Север Авто М,Backend-разработчик (Python),от  150000   руб.  на руки,hh.ru,https://hh.ru/vacancy/38525315?query=Python
+5f5b8fbd5007de8d97a4ee1a,Зеленоград,CQG,Senior Software Developer C++,з/п не указана,hh.ru,https://hh.ru/vacancy/34789293?query=Python
+5f5b8fc15007de8d97a4ee1c,Дубна,ООО  ТАРИС,Программист Qt / C++,з/п не указана,hh.ru,https://hh.ru/vacancy/38735122?query=Python
+5f5b8fc55007de8d97a4ee1e,Жуковский,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460616?query=Python
+5f5b8fca5007de8d97a4ee20,Красногорск,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460651?query=Python
+5f5b8fcd5007de8d97a4ee22,Щелково,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460628?query=Python
+5f5b8fd05007de8d97a4ee24,Реутов,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460617?query=Python
+5f5b8fd45007de8d97a4ee26,Сергиев Посад,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460603?query=Python
+5f5b8fd75007de8d97a4ee28,Ногинск,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460608?query=Python
+5f5b8fda5007de8d97a4ee2a,Пушкино (Московская область),X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460615?query=Python
+5f5b8fdd5007de8d97a4ee2c,Серпухов,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460629?query=Python
+5f5b8fe25007de8d97a4ee2e,Орехово-Зуево,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460624?query=Python
+5f5b8fe45007de8d97a4ee2f,Балашиха,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38461979?query=Python
+5f5b8fe85007de8d97a4ee31,Электросталь,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460643?query=Python
+5f5b8feb5007de8d97a4ee33,Коломна,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460638?query=Python
+5f5b8fef5007de8d97a4ee36,Щелково,"ООО  АНТРАКС, МНПП",Инженер – программист / Специалист по нейросетям,з/п не указана,hh.ru,https://hh.ru/vacancy/38972208?query=Python
+5f5b8ff35007de8d97a4ee38,Фрязино,"ООО  АНТРАКС, МНПП",Инженер – программист / Специалист по нейросетям,з/п не указана,hh.ru,https://hh.ru/vacancy/38972207?query=Python
+5f5b8ff75007de8d97a4ee3a,Королев,"ООО  АНТРАКС, МНПП",Инженер – программист / Специалист по нейросетям,з/п не указана,hh.ru,https://hh.ru/vacancy/38972211?query=Python
+5f5b8ffb5007de8d97a4ee3c,Пушкино (Московская область),"ООО  АНТРАКС, МНПП",Инженер – программист / Специалист по нейросетям,з/п не указана,hh.ru,https://hh.ru/vacancy/38972210?query=Python
+5f5b8ffe5007de8d97a4ee3d,Ивантеевка,"ООО  АНТРАКС, МНПП",Инженер – программист / Специалист по нейросетям,з/п не указана,hh.ru,https://hh.ru/vacancy/38972209?query=Python
+5f5b90025007de8d97a4ee40,Химки,ООО  ФК ПУЛЬС,Архитектор высоконагруженных проектов,з/п не указана,hh.ru,https://hh.ru/vacancy/39061500?query=Python
+5f5b90045007de8d97a4ee41,Зеленоград,АО  Дизайн Центр Союз,Инженер-верификатор аналого-цифровых СБИС,от  80000   руб.  до вычета налогов,hh.ru,https://hh.ru/vacancy/39068690?query=Python
+5f5b90085007de8d97a4ee43,Жуковский,"АО  Динамика, ЦНТУ",Ведущий инженер-программист (г. Жуковский),от  95000   руб.  до вычета налогов,hh.ru,https://hh.ru/vacancy/39058118?query=Python
+5f5b900c5007de8d97a4ee45,Химки,ООО  ФК ПУЛЬС,Специалист по тестированию,з/п не указана,hh.ru,https://hh.ru/vacancy/37348604?query=Python
+5f5b90105007de8d97a4ee47,Химки,ООО  ФК ПУЛЬС,DevOps,з/п не указана,hh.ru,https://hh.ru/vacancy/38262586?query=Python
+5f5b90135007de8d97a4ee49,,ООО  Альта-Транс,Инженер-конструктор мехатронных модулей,от  40000  до  90000   руб.  на руки,hh.ru,https://hh.ru/vacancy/39170695?query=Python
+5f5b90155007de8d97a4ee4b,Дубна,АДВ,Junior Web - Analyst / Младший веб - аналитик,з/п не указана,hh.ru,https://hh.ru/vacancy/39070994?query=Python
+5f5b90195007de8d97a4ee4d,Мытищи,ЧУ ДО Московская школа программистов,Product manager,от  100000  до  110000   руб.  на руки,hh.ru,https://hh.ru/vacancy/39151532?query=Python
+5f5b901d5007de8d97a4ee4f,Руза,ИП  Писарева Евгения Александровна,Преподаватель компьютерных IT курсов,от  12000  до  100000   руб.  на руки,hh.ru,https://hh.ru/vacancy/39045295?query=Python
+5f5b90215007de8d97a4ee51,Москва,Лаборатория геномной инженерии МФТИ,Биоинформатик,от  60000  до  300000   руб.  до вычета налогов,hh.ru,https://hh.ru/vacancy/39102012?query=Python
+5f5b90245007de8d97a4ee53,,ООО  Каршеринг Руссия,Бизнес-аналитик,з/п не указана,hh.ru,https://hh.ru/vacancy/39181111?query=Python
+5f5b90285007de8d97a4ee55,Зеленоград,CloudDC,Аналитик (отдел эксплуатации средств защиты информации),з/п не указана,hh.ru,https://hh.ru/vacancy/38944530?query=Python
+5f5b902c5007de8d97a4ee57,Зеленоград,CQG,Middle/Senior Front-end Developer,з/п не указана,hh.ru,https://hh.ru/vacancy/38478503?query=Python
+5f5b902f5007de8d97a4ee5a,Дубна,ООО  Информер Девелопмент,SEO-специалист,от  140000   руб.  на руки,hh.ru,https://hh.ru/vacancy/38819577?query=Python
+5f5b90335007de8d97a4ee5c,Королев,ЧУ ДО Московская школа программистов,"Преподаватель компьютерных IT курсов, программирования, информатики",до  140000   руб.  на руки,hh.ru,https://hh.ru/vacancy/39084612?query=Python
+5f5b90385007de8d97a4ee5e,Мытищи,ЧУ ДО Московская школа программистов,"Преподаватель компьютерных IT курсов, программирования, информатики",до  140000   руб.  на руки,hh.ru,https://hh.ru/vacancy/38673612?query=Python
+5f5b903a5007de8d97a4ee5f,Планерная,Екатерининский лицей в г. Химки,Преподаватель программирования Scratch для детей,до  30000   руб.  на руки,hh.ru,https://hh.ru/vacancy/38743066?query=Python
+5f5b903d5007de8d97a4ee60,Зеленоград,АО  ЭЛВИС-НеоТек,Программист-аналитик,з/п не указана,hh.ru,https://hh.ru/vacancy/39160158?query=Python
+5f5b90405007de8d97a4ee62,Балашиха,Интер Стоун,Аналитик,з/п не указана,hh.ru,https://hh.ru/vacancy/38596723?query=Python
+5f5b90255007de8d97a4ee54,Бауманская,Компания Т и Т Интернешнл,DevOps инженер / Linux инженер,от  80000руб.,superjob.ru,https://russia.superjob.ru/vakansii/devops-inzhener-34496173.html
+5f5b90295007de8d97a4ee56,Динамо,Retail Profile Russia,Системный администратор,70000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-34468080.html
+5f5b902d5007de8d97a4ee58,"Санкт-Петербург, проспект Обуховской Обороны, 120",«Северо-Западный региональный центр Концерна ВКО «Алмаз-Антей» - Обуховский завод»,Ведущий инженер (лаборатория искусственного интеллекта),от  75000руб.,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-inzhener-34425078.html
+5f5b902f5007de8d97a4ee59,"Краснодар, Кузнечная улица, 6",ИЦ Региональные системы,Системный инженер (пентест),По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-inzhener-34447451.html
+5f5b90325007de8d97a4ee5b,Омск,Тинькофф,Менеджер по дистанционным продажам POS-кредитования среднему бизнесу,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/menedzher-po-distancionnym-prodazham-pos-kreditovaniya-srednemu-biznesu-34236029.html
+5f5b90365007de8d97a4ee5d,Хабаровск,Сбербанк России,Ведущий инженер в отдел облачных решений,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-inzhener-v-otdel-oblachnyh-reshenij-34483886.html
+5f5b903f5007de8d97a4ee61,Санкт-Петербург,Фидес,Разработчик Python Middle\Senior,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/razrabotchik-python-middle-34311811.html
+5f5b90425007de8d97a4ee63,Москва,Частный рекрутер Бельтюкова Мария Александровна,Python / Full stack-разработчик,150000  —  180000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/python-34337426.html
+5f5b90455007de8d97a4ee65,Махачкала,05.ru,Senior Python Developer,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/senior-python-developer-34381511.html
+5f5b90485007de8d97a4ee67,Нижний Новгород,Вычислительный центр,"Web-программист PHP, Python, ASP.NET Core MVC 2.x",По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/web-programmist-php-34312384.html
+5f5b904e5007de8d97a4ee69,Хабаровск,Сбербанк России,Главный инженер в департамент управления данными (SberData),По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/glavnyj-inzhener-v-departament-upravleniya-dannymi-34483860.html
+5f5b90525007de8d97a4ee6c,"Пенза, улица Карла Маркса, 5А",Эквирон,Ведущий инженер-тестировщик / QA,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-inzhener-testirovschik-34510529.html
+5f5b90565007de8d97a4ee6d,Санкт-Петербург,Юниор Код,Учитель в школу программирования для детей,до  60000руб.,superjob.ru,https://russia.superjob.ru/vakansii/uchitel-v-shkolu-programmirovaniya-dlya-detej-34510453.html
+5f5b90595007de8d97a4ee70,Московская,Банк ВТБ,Ведущий специалист по автотестированию,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-specialist-po-avtotestirovaniyu-34202308.html
+5f5b905c5007de8d97a4ee71,Москва,Международная школа программирования для детей CODDY,Преподаватель компьютерных IT курсов и дизайна,до  150000руб.,superjob.ru,https://russia.superjob.ru/vakansii/prepodavatel-kompyuternyh-it-kursov-i-dizajna-34462129.html
+5f5b90605007de8d97a4ee74,"Екатеринбург, пр-кт Ленина, д. 38",Т Плюс,Ведущий эксперт по СУПП,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-ekspert-po-supp-32618908.html
+5f5b90665007de8d97a4ee77,Зеленоград,ВНИИФТРИ,Инженер-программист,от  40000руб.,superjob.ru,https://russia.superjob.ru/vakansii/inzhener-programmist-33092773.html
+5f5b90685007de8d97a4ee78,"Нижний Новгород, улица Звездинка, 5","Международная школа программирования ""Coddy""",Преподаватель компьютерных IT-курсов,от  20000руб.,superjob.ru,https://russia.superjob.ru/vakansii/prepodavatel-kompyuternyh-it-kursov-34384905.html
+5f5b906b5007de8d97a4ee79,"Саратов, улица имени И.В. Панфилова, 1А",НПО RBS,Web-программист / Web-разработчик,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/web-programmist-34463427.html
+5f5b906f5007de8d97a4ee7a,"Белгород, проспект Славы, 28",Межрегиональная распределительная сетевая компания Центра и Приволжья,Ведущий инженер-программист разработчик,60000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-inzhener-programmist-razrabotchik-34515749.html
+5f5b90725007de8d97a4ee7b,Екатеринбург,Золотое Яблоко,Сетевой инженер,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/setevoj-inzhener-34341004.html
+5f5b90765007de8d97a4ee7c,Москва,Бэлл Интегратор,Инженер по автоматизированному тестированию,до  200000руб.,superjob.ru,https://russia.superjob.ru/vakansii/inzhener-po-avtomatizirovannomu-testirovaniyu-34417736.html
+5f5b907b5007de8d97a4ee7d,Москва,Фирма ВОДОКОМФОРТ,Web-программист,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/web-programmist-34516646.html
+5f5b907d5007de8d97a4ee7e,Воронеж,БМ-ХОЛДИНГ,Системный администратор,50000  —  60000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-34516248.html
+5f5b90835007de8d97a4ee7f,"Московская область, Балашиха, микрорайон Гагарина, Проектная улица, 14",Интер Стоун,Аналитик по продажам (Балашиха),70000  —  85000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/analitik-po-prodazham-34316590.html
+5f5b90865007de8d97a4ee80,Кожуховская,МАСТЕРХОСТ,Сетевой инженер,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/setevoj-inzhener-34348281.html
+5f5b908a5007de8d97a4ee81,"Тюмень, улица Луначарского, 42",Тюменский индустриальный университет,Доцент / Профессор,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/docent-34389482.html
+5f5b908d5007de8d97a4ee82,Москва,ZiMAD,Senior QA Automation Engineer,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/senior-qa-automation-engineer-34498241.html
+5f5b90925007de8d97a4ee83,Ховрино,ПРИМА,Системный администратор,от  45000руб.,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-33088419.html
+5f5b90945007de8d97a4ee84,"Москва, Духовской переулок, 17",Альянс,Ведущий аналитик / Data Engineer,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-analitik-34313441.html
+5f5b90995007de8d97a4ee85,Москва,СОГАЗ,Frontend lead (React),По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/frontend-lead-34357190.html
+5f5b909a5007de8d97a4ee86,Верхние Котлы,РЕСО-Гарантия,Аналитик,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/analitik-31183225.html
+5f5b909b5007de8d97a4ee87,Беговая,Компания КОМПЛИТ,Ведущий инженер ЦОД,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-inzhener-cod-34001508.html
+5f5b909e5007de8d97a4ee88,Панфиловская,ОптиКом,QA-специалист,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/qa-specialist-34111890.html
+5f5b90a15007de8d97a4ee89,Новогиреево,ГБОУ Школа №1504,Учитель информатики и ИКТ,от  80000руб.,superjob.ru,https://russia.superjob.ru/vakansii/uchitel-informatiki-i-ikt-30254613.html
+5f5b90a35007de8d97a4ee8a,"Московская область, Минское шоссе, 9",LG Electronics,Инженер-конструктор (TV RnD Product Development Part),от  42300руб.,superjob.ru,https://russia.superjob.ru/vakansii/inzhener-konstruktor-34453693.html
+5f5b90a85007de8d97a4ee8b,Озерки,Радиофид Системы,Системный администратор Linux,от  50000руб.,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-linux-33374933.html
+5f5b90ab5007de8d97a4ee8c,Москва,TFN,Web-разработчик,110000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/web-razrabotchik-34448743.html
+5f5b90b05007de8d97a4ee8d,Зеленоград,ВНИИФТРИ,Инженер (программирование),от  40000руб.,superjob.ru,https://russia.superjob.ru/vakansii/inzhener-34115922.html
+5f5b90b35007de8d97a4ee8e,"Долгопрудный, Институтский переулок, 9",МФТИ,NLP Software Developer / NLP программист-разработчик,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/nlp-software-developer-33788779.html
+5f5b90b85007de8d97a4ee8f,Москва,Технопарк «Сколково»,С++-разработчик прикладного встраиваемого ПО,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/s-34345365.html
+5f5b90bc5007de8d97a4ee90,Ленинский проспект,Смарт Энджинс Сервис,Программист / Инженер технической поддержки,110000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/programmist-34369639.html
+5f5b90bf5007de8d97a4ee91,Охотный ряд,Квантбокс,Senior SQL / PostgreSQL-разработчик,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/senior-sql-34449372.html
+5f5b90c35007de8d97a4ee92,Кожуховская,МАСТЕРХОСТ,Ведущий системный администратор,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-sistemnyj-administrator-34348359.html
+5f5b90c75007de8d97a4ee93,Москва,Тинькофф,Специалист анализа и планирования клиентского сервиса,от  70000руб.,superjob.ru,https://russia.superjob.ru/vakansii/specialist-analiza-i-planirovaniya-klientskogo-servisa-34505921.html
+5f5b90ca5007de8d97a4ee94,Хабаровск,Сбербанк России,Главный инженер по прикладному сопровождению интеграционных решений,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/glavnyj-inzhener-po-prikladnomu-soprovozhdeniyu-integracionnyh-reshenij-34076850.html
+5f5b90d15007de8d97a4ee95,"Санкт-Петербург, проспект Обуховской Обороны, 120",«Северо-Западный региональный центр Концерна ВКО «Алмаз-Антей» - Обуховский завод»,Веб-программист,от  65000руб.,superjob.ru,https://russia.superjob.ru/vakansii/veb-programmist-34280291.html
+5f5b90d45007de8d97a4ee96,Краснодар,Тинькофф,Специалист направления аналитики и планирования,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/specialist-napravleniya-analitiki-i-planirovaniya-34254300.html
+5f5b90dc5007de8d97a4ee97,Краснодар,Тинькофф,Специалист направления финансового анализа и расчёта вознаграждений,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/specialist-napravleniya-finansovogo-analiza-i-raschjota-voznagrazhdenij-34232734.html
+5f5b90e05007de8d97a4ee98,Москва,Сбербанк России,Ведущий аудитор,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-auditor-34455717.html
+5f5b90e45007de8d97a4ee99,Барнаул,Мария-РА,Системный администратор Linux,от  50000руб.,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-linux-33832459.html
+5f5b90e75007de8d97a4ee9a,"Москва, Ленинградское шоссе, д. 64 к. 2",НРТБ,Fullstack вэб-разработчик,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/fullstack-veb-razrabotchik-32397220.html
+5f5b90e95007de8d97a4ee9b,Бауманская,ВИЗАВИ Консалт,Web-аналитик,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/web-analitik-34374405.html
+5f5b90ef5007de8d97a4ee9c,Университет,ГБОУ Школа №2086,Учитель информатики,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/uchitel-informatiki-34123084.html
+5f5b90f15007de8d97a4ee9d,"Республика Башкортостан, Уфа, Айская улица, 78",Terra Capital,Программист,от  40000руб.,superjob.ru,https://russia.superjob.ru/vakansii/programmist-34344055.html
+5f5b90f65007de8d97a4ee9e,"Москва, Товарищеский пер., д. 21",ГОУ СОШ № 1270,Учитель информатики,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/uchitel-informatiki-27807302.html
+5f5b90f95007de8d97a4ee9f,Алабинская,Самаранефтехимпроект,Ведущий инженер САПР,от  55000руб.,superjob.ru,https://russia.superjob.ru/vakansii/veduschij-inzhener-sapr-34350214.html
+5f5b90fb5007de8d97a4eea0,"Удмуртская Республика, Ижевск, улица Свободы, 173",Межотраслевой институт,Системный администратор,от  25000руб.,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-34380825.html
+5f5b90fd5007de8d97a4eea1,Москва,КИБЕРБОРЕЯ,Data Scientist,120000  —  150000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/data-scientist-34345797.html
+5f5b91015007de8d97a4eea2,"Москва, Щукинская улица",ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ,Биоинформатик (транскриптомика клеточных линий),По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/bioinformatik-34116304.html
+5f5b91085007de8d97a4eea3,Канавинская,"Филиал ФКУ ""Налог-Сервис"" ФНС России в Нижегородской области",Системный администратор / IT-специалист,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/sistemnyj-administrator-34353571.html
+5f5b91095007de8d97a4eea4,"Волгоград, микрорайон Жилгородок, Кутузовская улица, 5",Волгоградский социально-педагогический колледж,Преподаватель программирования и информатики,от  18000руб.,superjob.ru,https://russia.superjob.ru/vakansii/prepodavatel-programmirovaniya-i-informatiki-33364026.html
+5f5b90435007de8d97a4ee64,,Чемпионика Диджитал,Педагог в школу программирования,з/п не указана,hh.ru,https://hh.ru/vacancy/38948683?query=Python
+5f5b90475007de8d97a4ee66,,ООО  Алиса-Центр,Преподаватель курсов программирования Unity3D и Python для детей,от  30000  до  50000   руб.  на руки,hh.ru,https://hh.ru/vacancy/39053753?query=Python
+5f5b904a5007de8d97a4ee68,Мытищи,ЧУ ДО Московская школа программистов,Frontend-разработчик,от  100000  до  120000   руб.  до вычета налогов,hh.ru,https://hh.ru/vacancy/39151843?query=Python
+5f5b904e5007de8d97a4ee6a,Зеленоград,ООО  Медицинские Компьютерные Системы,Web-разработчик,от  80000  до  120000   руб.  до вычета налогов,hh.ru,https://hh.ru/vacancy/39128702?query=Python
+5f5b90525007de8d97a4ee6b,Одинцово,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460634?query=Python
+5f5b90565007de8d97a4ee6e,Долгопрудный,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460621?query=Python
+5f5b90595007de8d97a4ee6f,Домодедово,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460636?query=Python
+5f5b905d5007de8d97a4ee72,Раменское,X-LAB,Стажер-разработчик Python,з/п не указана,hh.ru,https://hh.ru/vacancy/38460626?query=Python
+5f5b905f5007de8d97a4ee73,Химки,ООО  ФК ПУЛЬС,Ведущий программист Python,з/п не указана,hh.ru,https://hh.ru/vacancy/34847485?query=Python
+5f5b90635007de8d97a4ee75,Химки,ООО  ФК ПУЛЬС,Программист Python,з/п не указана,hh.ru,https://hh.ru/vacancy/34847333?query=Python
+5f5b90655007de8d97a4ee76,Балашиха,Star-staff,Программист Python,от  90000  до  150000   руб.  на руки,hh.ru,https://hh.ru/vacancy/38992767?query=Python
+5f5b910f5007de8d97a4eea5,Москва,Юниоркод,Учитель в школу программирования для детей,50000  —  55000  руб.,superjob.ru,https://russia.superjob.ru/vakansii/uchitel-v-shkolu-programmirovaniya-dlya-detej-34495757.html
+5f5b91135007de8d97a4eea6,Зеленоград,ВНИИФТРИ,"Инженер, техник",от  35000руб.,superjob.ru,https://russia.superjob.ru/vakansii/inzhener-33089687.html
+5f5b91175007de8d97a4eea7,"Москва, Балтийская улица, 15",Welbex,"Web-программист, Web-разработчик (удалённо)",от  30000руб.,superjob.ru,https://russia.superjob.ru/vakansii/web-programmist-33921626.html
+5f5b91175007de8d97a4eea8,Москва,СОГАЗ,Тестировщик,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/testirovschik-34357180.html
+5f5b911b5007de8d97a4eea9,"Московская обл., Рузский р-н, поселок Дорохово, Минское шоссе, д. 9",LG Electronics,Инженер-конструктор (TV RnD Product Development Part),от  42300руб.,superjob.ru,https://russia.superjob.ru/vakansii/inzhener-konstruktor-32432613.html
+5f5b911d5007de8d97a4eeaa,"Долгопрудный, Институтский переулок, 9",МФТИ,NLP Engineer / NLP инженер,По договорённости,superjob.ru,https://russia.superjob.ru/vakansii/nlp-engineer-33788780.html
